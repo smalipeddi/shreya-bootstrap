@@ -1,0 +1,75 @@
+body {
+  font-family: 'Tangerine', serif;
+  font-size: 100px;
+  color:white;
+  text-shadow: 4px 4px 4px #aaa;
+  background-image: url("../shreya-bootstrap/shreya/images/shreya-all/one.jpg");
+}
+
+
+.home_sliding_bg {
+    color: #FFFFFF;
+    background: #f06;
+
+   /*  box-shadow: inset 0 0 0 0 #C14800; */
+   box-shadow: inset 0 0 0 0 #FFFFFF;
+	-webkit-transition: all ease 0.8s;
+	-moz-transition: all ease 0.8s;
+	transition: all ease 0.8s;
+}
+.home_sliding_bg:hover {
+    /* box-shadow: inset 0 100px 0 0 #C14800; */
+    box-shadow: inset 0 100px 0 0 #FFFFFF;
+}
+.photos_sliding_bg {
+    color: #FFFFFF;
+    background: #f06;
+   /*  box-shadow: inset 0 0 0 0 #b3bc20; */
+     box-shadow: inset 0 0 0 0 #FFFFFF;
+	-webkit-transition: all ease 0.8s;
+	-moz-transition: all ease 0.8s;
+	transition: all ease 0.8s;
+}
+.photos_sliding_bg:hover {
+ /*    box-shadow: inset 0 100px 0 0 #69c; */
+    box-shadow: inset 0 100px 0 0 #FFFFFF;
+}
+.videos_sliding_bg {
+   color: #FFFFFF;
+    background: #f06;
+    /* box-shadow: inset 0 0 0 0 #bc1339; */
+     box-shadow: inset 0 0 0 0 #FFFFFF;
+	-webkit-transition: all ease 0.8s;
+	-moz-transition: all ease 0.8s;
+	transition: all ease 0.8s;
+}
+.videos_sliding_bg:hover {
+    /* box-shadow: inset 0 100px 0 0 #b3bc20; */
+     box-shadow: inset 0 100px 0 0 #FFFFFF;
+}
+.funfacts_sliding_bg {
+    color: #FFFFFF;
+    background:#f06;
+    /* box-shadow: inset 0 0 0 0 #ff5d00; */
+     box-shadow: inset 0 0 0 0 #FFFFFF;
+	-webkit-transition: all ease 0.8s;
+	-moz-transition: all ease 0.8s;
+	transition: all ease 0.8s;
+}
+.funfacts_sliding_bg:hover {
+    /* box-shadow: inset 0 100px 0 0 #00e1ff; */
+     box-shadow: inset 0 100px 0 0 #FFFFFF;
+}
+.guest_sliding_bg {
+    color: #FFFFFF;
+    background:#f06;
+    /* box-shadow: inset 0 0 0 0 #a77658; */
+     box-shadow: inset 0 0 0 0 #FFFFFF;
+	-webkit-transition: all ease 0.8s;
+	-moz-transition: all ease 0.8s;
+	transition: all ease 0.8s;
+}
+.guest_sliding_bg:hover {
+    /* box-shadow: inset 0 100px 0 0 #8433ff; */
+     box-shadow: inset 0 100px 0 0 #FFFFFF;
+}
