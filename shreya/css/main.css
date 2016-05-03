@@ -4,15 +4,15 @@ body  {
   font-size: 100px;
   color:white;
   text-shadow: 4px 4px 4px #aaa;
-  background-color: #099;
+  background-color: #000;
 }
 .row {
-	background-color: #099;
+	background-color: #000;
 }
 
 .home_sliding_bg {
     color: #FFFFFF;
-    background: #f06;
+    background: #000;
 
    /*  box-shadow: inset 0 0 0 0 #C14800; */
    box-shadow: inset 0 0 0 0 #FFFFFF;
@@ -26,7 +26,7 @@ body  {
 }
 .photos_sliding_bg {
     color: #FFFFFF;
-    background: #f06;
+    background: #000;
    /*  box-shadow: inset 0 0 0 0 #b3bc20; */
      box-shadow: inset 0 0 0 0 #FFFFFF;
 	-webkit-transition: all ease 0.8s;
@@ -39,7 +39,7 @@ body  {
 }
 .videos_sliding_bg {
    color: #FFFFFF;
-    background: #f06;
+    background:#000;
     /* box-shadow: inset 0 0 0 0 #bc1339; */
      box-shadow: inset 0 0 0 0 #FFFFFF;
 	-webkit-transition: all ease 0.8s;
@@ -52,7 +52,7 @@ body  {
 }
 .funfacts_sliding_bg {
     color: #FFFFFF;
-    background:#f06;
+    background:#000;
     /* box-shadow: inset 0 0 0 0 #ff5d00; */
      box-shadow: inset 0 0 0 0 #FFFFFF;
 	-webkit-transition: all ease 0.8s;
@@ -65,7 +65,7 @@ body  {
 }
 .guest_sliding_bg {
     color: #FFFFFF;
-    background:#f06;
+    background:#000;
     /* box-shadow: inset 0 0 0 0 #a77658; */
      box-shadow: inset 0 0 0 0 #FFFFFF;
 	-webkit-transition: all ease 0.8s;
@@ -79,7 +79,7 @@ body  {
 .welcome{
 	font-style: bold;
 	font-size: 100px;
-	color:#066;
+	color:aliceblue;
 	font-family: calibri;
 	font-stretch: 100px;
 }
@@ -92,7 +92,7 @@ body  {
 .colspan1{
 	height: 200px;
 	width:100%;
-	background-color: #099;
+	background-color: #000;
 }
 .colspan2{
 	margin-left:200px;
@@ -100,7 +100,10 @@ body  {
 
 }
 .logo{
- background-image:url(../images/shreya-all/one.jpg);
+ /* background-image:url(../images/shreya-all/shreya-b-w.jpg); */
+ background-image:url(../images/shreya-all/shreya-good.jpg);
+ 
  background-repeat: no-repeat;
  background-size: cover;
+  border-radius:50%;
 }
