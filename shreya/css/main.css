@@ -1,12 +1,14 @@
 /* a commeent*/
-body {
+body  {
   font-family: 'Tangerine', serif;
   font-size: 100px;
   color:white;
   text-shadow: 4px 4px 4px #aaa;
-  background-image: url("../shreya-bootstrap/shreya/images/shreya-all/one.jpg");
+  background-color: #099;
 }
-
+.row {
+	background-color: #099;
+}
 
 .home_sliding_bg {
     color: #FFFFFF;
@@ -73,4 +75,32 @@ body {
 .guest_sliding_bg:hover {
     /* box-shadow: inset 0 100px 0 0 #8433ff; */
      box-shadow: inset 0 100px 0 0 #FFFFFF;
+}
+.welcome{
+	font-style: bold;
+	font-size: 100px;
+	color:#066;
+	font-family: calibri;
+	font-stretch: 100px;
+}
+.borders{
+	border: 2px solid red;
+	/* background-color:yellow; */
+	
+	height:60px;
+}
+.colspan1{
+	height: 200px;
+	width:100%;
+	background-color: #099;
+}
+.colspan2{
+	margin-left:200px;
+	height:550px;
+
+}
+.logo{
+ background-image:url(../images/shreya-all/one.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
 }
